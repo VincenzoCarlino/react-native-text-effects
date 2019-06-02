@@ -1,0 +1,29 @@
+{
+  "name": "react-native-text-effects",
+  "version": "1.0.0",
+  "description": "A collection of effects for text component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincenzoCarlino/react-native-text-effects.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Text",
+    "Effetcs",
+    "Text",
+    "Mobile",
+    "Android",
+    "iOS"
+  ],
+  "author": "Vincenzo Carlino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VincenzoCarlino/react-native-text-effects/issues"
+  },
+  "homepage": "https://github.com/VincenzoCarlino/react-native-text-effects#readme"
+}
